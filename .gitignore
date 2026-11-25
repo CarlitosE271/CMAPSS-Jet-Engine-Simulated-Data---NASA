@@ -1,0 +1,9 @@
+# Entorno virtual
+.venv/
+
+# Datos (se descargan de NASA, ver README)
+data/
+
+# Archivos generados por Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
